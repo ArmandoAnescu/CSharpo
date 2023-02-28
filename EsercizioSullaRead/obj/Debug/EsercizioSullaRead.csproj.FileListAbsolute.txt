@@ -1,0 +1,7 @@
+E:\3f\Anescu Armando\EsercizioSullaRead\bin\Debug\EsercizioSullaRead.exe.config
+E:\3f\Anescu Armando\EsercizioSullaRead\bin\Debug\EsercizioSullaRead.exe
+E:\3f\Anescu Armando\EsercizioSullaRead\bin\Debug\EsercizioSullaRead.pdb
+E:\3f\Anescu Armando\EsercizioSullaRead\obj\Debug\EsercizioSullaRead.csproj.AssemblyReference.cache
+E:\3f\Anescu Armando\EsercizioSullaRead\obj\Debug\EsercizioSullaRead.csproj.CoreCompileInputs.cache
+E:\3f\Anescu Armando\EsercizioSullaRead\obj\Debug\EsercizioSullaRead.exe
+E:\3f\Anescu Armando\EsercizioSullaRead\obj\Debug\EsercizioSullaRead.pdb
