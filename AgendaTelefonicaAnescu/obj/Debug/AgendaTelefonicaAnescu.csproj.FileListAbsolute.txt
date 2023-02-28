@@ -1,0 +1,7 @@
+E:\3f\Anescu Armando\AgendaTelefonicaAnescu\bin\Debug\AgendaTelefonicaAnescu.exe.config
+E:\3f\Anescu Armando\AgendaTelefonicaAnescu\bin\Debug\AgendaTelefonicaAnescu.exe
+E:\3f\Anescu Armando\AgendaTelefonicaAnescu\bin\Debug\AgendaTelefonicaAnescu.pdb
+E:\3f\Anescu Armando\AgendaTelefonicaAnescu\obj\Debug\AgendaTelefonicaAnescu.csproj.AssemblyReference.cache
+E:\3f\Anescu Armando\AgendaTelefonicaAnescu\obj\Debug\AgendaTelefonicaAnescu.csproj.CoreCompileInputs.cache
+E:\3f\Anescu Armando\AgendaTelefonicaAnescu\obj\Debug\AgendaTelefonicaAnescu.exe
+E:\3f\Anescu Armando\AgendaTelefonicaAnescu\obj\Debug\AgendaTelefonicaAnescu.pdb
