@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\ConversioneBinarioDecimale\ConversioneBinarioDecimale\bin\Debug\ConversioneBinarioDecimale.exe.config
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\ConversioneBinarioDecimale\ConversioneBinarioDecimale\bin\Debug\ConversioneBinarioDecimale.exe
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\ConversioneBinarioDecimale\ConversioneBinarioDecimale\bin\Debug\ConversioneBinarioDecimale.pdb
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\ConversioneBinarioDecimale\ConversioneBinarioDecimale\obj\Debug\ConversioneBinarioDecimale.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\ConversioneBinarioDecimale\ConversioneBinarioDecimale\obj\Debug\ConversioneBinarioDecimale.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\ConversioneBinarioDecimale\ConversioneBinarioDecimale\obj\Debug\ConversioneBinarioDecimale.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\ConversioneBinarioDecimale\ConversioneBinarioDecimale\obj\Debug\ConversioneBinarioDecimale.exe
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\ConversioneBinarioDecimale\ConversioneBinarioDecimale\obj\Debug\ConversioneBinarioDecimale.pdb

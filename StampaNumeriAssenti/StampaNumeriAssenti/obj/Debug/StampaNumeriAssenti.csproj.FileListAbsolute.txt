@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\StampaNumeriAssenti\StampaNumeriAssenti\bin\Debug\StampaNumeriAssenti.exe.config
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\StampaNumeriAssenti\StampaNumeriAssenti\bin\Debug\StampaNumeriAssenti.exe
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\StampaNumeriAssenti\StampaNumeriAssenti\bin\Debug\StampaNumeriAssenti.pdb
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\StampaNumeriAssenti\StampaNumeriAssenti\obj\Debug\StampaNumeriAssenti.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\StampaNumeriAssenti\StampaNumeriAssenti\obj\Debug\StampaNumeriAssenti.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\StampaNumeriAssenti\StampaNumeriAssenti\obj\Debug\StampaNumeriAssenti.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\StampaNumeriAssenti\StampaNumeriAssenti\obj\Debug\StampaNumeriAssenti.exe
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\StampaNumeriAssenti\StampaNumeriAssenti\obj\Debug\StampaNumeriAssenti.pdb

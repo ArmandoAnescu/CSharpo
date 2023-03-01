@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversioneBinarioDecimale", "ConversioneBinarioDecimale\ConversioneBinarioDecimale.csproj", "{EF28478C-7DEE-4B0C-9CDD-64F540517AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF28478C-7DEE-4B0C-9CDD-64F540517AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF28478C-7DEE-4B0C-9CDD-64F540517AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF28478C-7DEE-4B0C-9CDD-64F540517AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF28478C-7DEE-4B0C-9CDD-64F540517AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E839AB9-E088-4BA9-BBE8-372DA750F810}
+	EndGlobalSection
+EndGlobal

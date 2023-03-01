@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\VinaioScontrino\VinaioScontrino\bin\Debug\VinaioScontrino.exe.config
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\VinaioScontrino\VinaioScontrino\bin\Debug\VinaioScontrino.exe
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\VinaioScontrino\VinaioScontrino\bin\Debug\VinaioScontrino.pdb
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\VinaioScontrino\VinaioScontrino\obj\Debug\VinaioScontrino.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\VinaioScontrino\VinaioScontrino\obj\Debug\VinaioScontrino.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\VinaioScontrino\VinaioScontrino\obj\Debug\VinaioScontrino.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\VinaioScontrino\VinaioScontrino\obj\Debug\VinaioScontrino.exe
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\VinaioScontrino\VinaioScontrino\obj\Debug\VinaioScontrino.pdb
