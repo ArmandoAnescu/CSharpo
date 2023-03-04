@@ -1,0 +1,7 @@
+E:\3 F informatica\Anescu_Armando_C#\LaTanaDeiGoti\bin\Debug\LaTanaDeiGoti.exe.config
+E:\3 F informatica\Anescu_Armando_C#\LaTanaDeiGoti\bin\Debug\LaTanaDeiGoti.exe
+E:\3 F informatica\Anescu_Armando_C#\LaTanaDeiGoti\bin\Debug\LaTanaDeiGoti.pdb
+E:\3 F informatica\Anescu_Armando_C#\LaTanaDeiGoti\obj\Debug\LaTanaDeiGoti.csproj.AssemblyReference.cache
+E:\3 F informatica\Anescu_Armando_C#\LaTanaDeiGoti\obj\Debug\LaTanaDeiGoti.csproj.CoreCompileInputs.cache
+E:\3 F informatica\Anescu_Armando_C#\LaTanaDeiGoti\obj\Debug\LaTanaDeiGoti.exe
+E:\3 F informatica\Anescu_Armando_C#\LaTanaDeiGoti\obj\Debug\LaTanaDeiGoti.pdb

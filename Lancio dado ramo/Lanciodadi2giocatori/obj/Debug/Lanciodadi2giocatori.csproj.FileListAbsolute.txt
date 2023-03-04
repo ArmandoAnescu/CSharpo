@@ -1,0 +1,7 @@
+E:\3 F informatica\Anescu_Armando_C#\Lanciodadi2giocatori\bin\Debug\Lanciodadi2giocatori.exe.config
+E:\3 F informatica\Anescu_Armando_C#\Lanciodadi2giocatori\bin\Debug\Lanciodadi2giocatori.exe
+E:\3 F informatica\Anescu_Armando_C#\Lanciodadi2giocatori\bin\Debug\Lanciodadi2giocatori.pdb
+E:\3 F informatica\Anescu_Armando_C#\Lanciodadi2giocatori\obj\Debug\Lanciodadi2giocatori.csproj.AssemblyReference.cache
+E:\3 F informatica\Anescu_Armando_C#\Lanciodadi2giocatori\obj\Debug\Lanciodadi2giocatori.csproj.CoreCompileInputs.cache
+E:\3 F informatica\Anescu_Armando_C#\Lanciodadi2giocatori\obj\Debug\Lanciodadi2giocatori.exe
+E:\3 F informatica\Anescu_Armando_C#\Lanciodadi2giocatori\obj\Debug\Lanciodadi2giocatori.pdb

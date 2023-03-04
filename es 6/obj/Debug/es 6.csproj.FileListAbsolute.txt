@@ -1,0 +1,7 @@
+E:\3 F informatica\Anescu_Armando_C#\es 6\obj\Debug\es 6.csproj.AssemblyReference.cache
+E:\3 F informatica\Anescu_Armando_C#\es 6\obj\Debug\es 6.csproj.CoreCompileInputs.cache
+E:\3 F informatica\Anescu_Armando_C#\es 6\bin\Debug\es 6.exe.config
+E:\3 F informatica\Anescu_Armando_C#\es 6\bin\Debug\es 6.exe
+E:\3 F informatica\Anescu_Armando_C#\es 6\bin\Debug\es 6.pdb
+E:\3 F informatica\Anescu_Armando_C#\es 6\obj\Debug\es 6.exe
+E:\3 F informatica\Anescu_Armando_C#\es 6\obj\Debug\es 6.pdb

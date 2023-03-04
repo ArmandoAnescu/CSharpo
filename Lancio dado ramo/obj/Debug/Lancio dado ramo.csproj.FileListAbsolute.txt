@@ -1,0 +1,7 @@
+E:\3 F informatica\Anescu_Armando_C#\Lancio dado ramo\bin\Debug\Lancio dado ramo.exe.config
+E:\3 F informatica\Anescu_Armando_C#\Lancio dado ramo\bin\Debug\Lancio dado ramo.exe
+E:\3 F informatica\Anescu_Armando_C#\Lancio dado ramo\bin\Debug\Lancio dado ramo.pdb
+E:\3 F informatica\Anescu_Armando_C#\Lancio dado ramo\obj\Debug\Lancio dado ramo.csproj.AssemblyReference.cache
+E:\3 F informatica\Anescu_Armando_C#\Lancio dado ramo\obj\Debug\Lancio dado ramo.csproj.CoreCompileInputs.cache
+E:\3 F informatica\Anescu_Armando_C#\Lancio dado ramo\obj\Debug\Lancio dado ramo.exe
+E:\3 F informatica\Anescu_Armando_C#\Lancio dado ramo\obj\Debug\Lancio dado ramo.pdb
