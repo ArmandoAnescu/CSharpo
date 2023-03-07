@@ -1,0 +1,7 @@
+E:\3 F informatica\Anescu_Armando_C#\frequenza\frequenza\obj\Debug\frequenza.csproj.AssemblyReference.cache
+E:\3 F informatica\Anescu_Armando_C#\frequenza\frequenza\obj\Debug\frequenza.csproj.CoreCompileInputs.cache
+E:\3 F informatica\Anescu_Armando_C#\frequenza\frequenza\bin\Debug\frequenza.exe.config
+E:\3 F informatica\Anescu_Armando_C#\frequenza\frequenza\bin\Debug\frequenza.exe
+E:\3 F informatica\Anescu_Armando_C#\frequenza\frequenza\bin\Debug\frequenza.pdb
+E:\3 F informatica\Anescu_Armando_C#\frequenza\frequenza\obj\Debug\frequenza.exe
+E:\3 F informatica\Anescu_Armando_C#\frequenza\frequenza\obj\Debug\frequenza.pdb
