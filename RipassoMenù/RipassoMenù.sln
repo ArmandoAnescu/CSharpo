@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RipassoMenù", "RipassoMenù\RipassoMenù.csproj", "{CA5991FC-6BB4-476C-9D1E-53DA68BEDDBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA5991FC-6BB4-476C-9D1E-53DA68BEDDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5991FC-6BB4-476C-9D1E-53DA68BEDDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5991FC-6BB4-476C-9D1E-53DA68BEDDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5991FC-6BB4-476C-9D1E-53DA68BEDDBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D8B2A3C-CC16-46CB-8E62-90120F65AD41}
+	EndGlobalSection
+EndGlobal

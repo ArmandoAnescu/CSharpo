@@ -1,0 +1,7 @@
+E:\Anescu Armando 4^F\RipassoMenù\RipassoMenù\obj\Debug\RipassoMenù.csproj.AssemblyReference.cache
+E:\Anescu Armando 4^F\RipassoMenù\RipassoMenù\obj\Debug\RipassoMenù.csproj.CoreCompileInputs.cache
+E:\Anescu Armando 4^F\RipassoMenù\RipassoMenù\bin\Debug\RipassoMenù.exe.config
+E:\Anescu Armando 4^F\RipassoMenù\RipassoMenù\bin\Debug\RipassoMenù.exe
+E:\Anescu Armando 4^F\RipassoMenù\RipassoMenù\bin\Debug\RipassoMenù.pdb
+E:\Anescu Armando 4^F\RipassoMenù\RipassoMenù\obj\Debug\RipassoMenù.exe
+E:\Anescu Armando 4^F\RipassoMenù\RipassoMenù\obj\Debug\RipassoMenù.pdb
