@@ -1,0 +1,7 @@
+F:\Anescu Armando 4F\RipassoVerifica\RipassoVerifica\obj\Debug\RipassoVerifica.csproj.AssemblyReference.cache
+F:\Anescu Armando 4F\RipassoVerifica\RipassoVerifica\obj\Debug\RipassoVerifica.csproj.CoreCompileInputs.cache
+F:\Anescu Armando 4F\RipassoVerifica\RipassoVerifica\bin\Debug\RipassoVerifica.exe.config
+F:\Anescu Armando 4F\RipassoVerifica\RipassoVerifica\bin\Debug\RipassoVerifica.exe
+F:\Anescu Armando 4F\RipassoVerifica\RipassoVerifica\bin\Debug\RipassoVerifica.pdb
+F:\Anescu Armando 4F\RipassoVerifica\RipassoVerifica\obj\Debug\RipassoVerifica.exe
+F:\Anescu Armando 4F\RipassoVerifica\RipassoVerifica\obj\Debug\RipassoVerifica.pdb

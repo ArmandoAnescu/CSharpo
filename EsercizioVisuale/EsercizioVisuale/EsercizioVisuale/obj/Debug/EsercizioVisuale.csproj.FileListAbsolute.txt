@@ -1,0 +1,30 @@
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\bin\Debug\EsercizioVisuale.exe.config
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\bin\Debug\EsercizioVisuale.exe
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\bin\Debug\EsercizioVisuale.pdb
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.csproj.AssemblyReference.cache
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.Visual.resources
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.Properties.Resources.resources
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.csproj.GenerateResource.cache
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.csproj.CoreCompileInputs.cache
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.exe
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.pdb
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\bin\Debug\EsercizioVisuale.exe.config
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\bin\Debug\EsercizioVisuale.exe
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\bin\Debug\EsercizioVisuale.pdb
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.Visual.resources
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.Properties.Resources.resources
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.exe
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.pdb
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\bin\Debug\EsercizioVisuale.exe.config
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\bin\Debug\EsercizioVisuale.exe
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\bin\Debug\EsercizioVisuale.pdb
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.csproj.AssemblyReference.cache
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.Visual.resources
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.Properties.Resources.resources
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.csproj.GenerateResource.cache
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.csproj.CoreCompileInputs.cache
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.exe
+F:\Anescu Armando 4F\EsercizioVisuale\EsercizioVisuale\EsercizioVisuale\obj\Debug\EsercizioVisuale.pdb

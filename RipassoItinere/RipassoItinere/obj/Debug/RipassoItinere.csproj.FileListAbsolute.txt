@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\RipassoItinere\RipassoItinere\obj\Debug\RipassoItinere.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\RipassoItinere\RipassoItinere\obj\Debug\RipassoItinere.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\RipassoItinere\RipassoItinere\bin\Debug\RipassoItinere.exe.config
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\RipassoItinere\RipassoItinere\bin\Debug\RipassoItinere.exe
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\RipassoItinere\RipassoItinere\bin\Debug\RipassoItinere.pdb
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\RipassoItinere\RipassoItinere\obj\Debug\RipassoItinere.exe
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\RipassoItinere\RipassoItinere\obj\Debug\RipassoItinere.pdb
+F:\Anescu Armando 4F\RipassoItinere\RipassoItinere\bin\Debug\RipassoItinere.exe.config
+F:\Anescu Armando 4F\RipassoItinere\RipassoItinere\bin\Debug\RipassoItinere.exe
+F:\Anescu Armando 4F\RipassoItinere\RipassoItinere\bin\Debug\RipassoItinere.pdb
+F:\Anescu Armando 4F\RipassoItinere\RipassoItinere\obj\Debug\RipassoItinere.csproj.AssemblyReference.cache
+F:\Anescu Armando 4F\RipassoItinere\RipassoItinere\obj\Debug\RipassoItinere.csproj.CoreCompileInputs.cache
+F:\Anescu Armando 4F\RipassoItinere\RipassoItinere\obj\Debug\RipassoItinere.exe
+F:\Anescu Armando 4F\RipassoItinere\RipassoItinere\obj\Debug\RipassoItinere.pdb
